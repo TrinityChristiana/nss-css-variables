@@ -1,6 +1,6 @@
 # CSS Variables
 
-Created: 02-10-2020 09:57:45 | Modified: 02-10-2020 10:01:35 
+Created: 02-10-2020 09:57:45 | Modified: 02-10-2020 10:52:50
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1563062-ee8f-4362-94ec-10d33c120f72/deploy-status)](https://app.netlify.com/sites/trinity-css-variables/deploys)
 
