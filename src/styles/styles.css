@@ -1,0 +1,6 @@
+/* @import "./pathto/file.css */
+
+/* :root or body selector allows you to sets global variables */
+/* Variables must use -- at the beginning and is case sensitive */
+
+/* Call it using var(--variable-name) */
